@@ -1,13 +1,13 @@
 # 👨🏽‍💻 *Karla Leocádio*
-**`Estudante de Ciência da Computação na [cesarschool](https://github.com/cesarschool)Tech + Humanas ✨`**
+**`Estudante de Ciência da Computação na Cesar School. Tech + Humanas ✨`**
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=+Hey!!!+👋;+🤖Welcome+to+my+GitHub!!!"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=+Hey!!!+👋;+🤖Seja bem vindo+ao+meu+GitHub!!!"/>
 </h1>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=SOBRE+MIM+👨🏽‍💻"/>
 </h1>
-Seja bem-vindo(a) ao meu GitHub! Sou estudante do primeiro período de CC na **CESAR School**  me defino como uma garota da tecnologia com um forte "ascendente em humanas". 
+Seja bem-vindo(a) ao meu GitHub! Sou estudante do primeiro período de CC na CESAR School. Me defino como uma garota da tecnologia com um forte "ascendente em humanas". 
 
 Acredito que através da tecnologia e da sensibilidade podemos tornar a **educação cada vez mais horizontal e inclusiva**. Para mim, o sucesso profissional e o impacto social não são caminhos opostos — eles andam juntos.
 
