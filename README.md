@@ -1,7 +1,7 @@
 # 👨🏽‍💻 *Karla Leocádio*
 **`Estudante de Ciência da Computação na Cesar School. Tech + Humanas ✨`**
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=+Hey!!!+👋;+🤖Seja bem vindo+ao+meu+GitHub!!!"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=+Hey!!!+👋;+🤖Seja bem+vindo+ao+meu+GitHub!!!"/>
 </h1>
 
 <h1 align="center">
