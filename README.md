@@ -9,7 +9,7 @@
 </h1>
 Seja bem-vindo(a) ao meu GitHub! Sou estudante do primeiro período de CC na CESAR School. Me defino como uma garota da tecnologia com um forte "ascendente em humanas". 
 
-Acredito que através da tecnologia e da sensibilidade podemos tornar a **educação cada vez mais horizontal e inclusiva**. Para mim, o sucesso profissional e o impacto social não são caminhos opostos — eles andam juntos.
+Acredito que através da tecnologia e da sensibilidade podemos tornar a **educação cada vez mais horizontal e inclusiva**. Para mim, o sucesso profissional e o impacto social não são caminhos opostos eles andam juntos.
 
 
 
