@@ -1,11 +1,11 @@
-# 👨🏽‍💻 *Karla Leocádio*
+# 👩🏽‍💻 *Karla Leocádio*
 **`Estudante de Ciência da Computação na Cesar School. Tech + Humanas ✨`**
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=+Hey!!!+👋;+🤖Seja+ bem+vindo+ao+meu+GitHub!!!"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=+Hey!!!+👋;+🤖Seja+bem+vindo+ao+meu+GitHub!!!"/>
 </h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=SOBRE+MIM+👨🏽‍💻"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=SOBRE+MIM+👩🏽‍💻"/>
 </h1>
 Seja bem-vindo(a) ao meu GitHub! Sou estudante do primeiro período de CC na CESAR School. Me defino como uma garota da tecnologia com um forte "ascendente em humanas". 
 
@@ -97,21 +97,3 @@ Acredito que através da tecnologia e da sensibilidade podemos tornar a **educa�
 
 ---
 
-## 📊 *Statistics*
-
-<p>
-    <img 
-        align="left" 
-        alt="Github Stats" 
-        height="200" 
-        style="padding-right: 10px" 
-        src="https://github-readme-stats.vercel.app/api?username=leocadiok&show_icons=true&theme=tokyonight&include_all_commits=true" 
-    />
-    <img 
-        align="left" 
-        alt="" 
-        height="200" 
-        style="padding-right: 10px" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocadiok&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-    />
-</p>
