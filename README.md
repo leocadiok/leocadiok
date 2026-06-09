@@ -9,7 +9,7 @@
 </h1>
 Seja bem-vindo(a) ao meu GitHub! Sou estudante do 1° período de CC na CESAR School. Uma aprendiz de tecnologia com um forte "ascendente em humanas". 
 
-Acredito que através da tecnologia e inovação podemos tornar a **educação cada vez mais horizontal e inclusiva**. Para mim, o sucesso profissional e o impacto social não são caminhos opostos eles andam juntos. Que o desejo de aprender e ensinar nos faça alcançar tudo que sonhamos!
+Acredito que através da tecnologia e inovação podemos tornar a **educação cada vez mais horizontal**. Para mim, o sucesso profissional e o impacto social não são caminhos opostos eles andam juntos. Que o desejo de aprender e ensinar nos faça alcançar tudo que sonhamos!
 
 
 
